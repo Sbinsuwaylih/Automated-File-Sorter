@@ -1,5 +1,5 @@
 # Automated-File-Sorter-
-Automated File Sorter by python 
+Automated File Sorter by python in jupter-notebook
 Create files of various types (e.g., pptx, pdf, csv, xlsx, txt, docx) in a specific path, and then organize all these files into their respective categories.
 you can add more types 
 
