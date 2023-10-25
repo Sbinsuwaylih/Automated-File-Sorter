@@ -4,4 +4,4 @@ Create files of various types (e.g., pptx, pdf, csv, xlsx, txt, docx) in a speci
 you can add more types 
 
 
-python vesion : '3.9.18'
+* python vesion : '3.9.18'
