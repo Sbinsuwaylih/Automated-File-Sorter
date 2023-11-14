@@ -55,7 +55,7 @@ for file in file_names:
     elif '.pptx' in file and not os.path.exists(path + folder_names[5]+'/' + file):
         shutil.move(path + file, path + folder_names[5]+'/' + file)
         
-print('Successfully sorted. Done. ')
+print(' Done. ')
     ## if you want add more types just add the name file in 'folder_name' if you like and be sure to index it here 
     #  put the type like these codes
     
