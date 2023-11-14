@@ -1,8 +1,8 @@
 import os,shutil 
 from platform import python_version
 
-#example: C:/----/----/----/--
-path = r'C:/Users/Saleh/Desktop/GP1/'
+#example: C:/----/----/----/--/
+path = r'parse the path here'
 
 
 
